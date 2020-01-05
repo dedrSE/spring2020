@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+	/* 'Ctrl+Shift+/' 문법에 맞는 자동주석 생성 */
+	/* body 태그에 정의하고 싶은 스타일 정의 */
+	background: black;	/* 배경색 */
+	color: white;	/* 글자색 */
+	
+	
+}
+
